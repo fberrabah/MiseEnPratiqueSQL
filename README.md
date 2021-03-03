@@ -1,4 +1,4 @@
-# Python3 & SQL : Responsive Design et portfolio
+# Python3 & SQL 
 
 # Déroulement 
 Manipulation des donnée via SQL et Python3
