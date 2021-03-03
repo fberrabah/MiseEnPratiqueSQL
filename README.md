@@ -1,7 +1,7 @@
 # Python3 & SQL 
 
 # Déroulement 
-Manipulation des donnée via SQL et Python3
+Manipulation des données via SQL et Python3
 
 # Traveaux à réaliser
 
