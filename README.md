@@ -1,11 +1,6 @@
 # Python3 & SQL 
 
 # Déroulement 
-Manipulation des données via SQL et Python3
-
-# Traveaux à réaliser
-
-Partie 5
 
 A partir de:
 si vous l’avez fait, la mise en pratique 1 (entraînement militaire ) 
@@ -23,10 +18,6 @@ Dans un répertoire github ajouter:
 diagramme de classe
 MPD
 code python
-
-et partager le lien en MP
-
-Partie 6 (facultative)
 
 Sur la mise en pratique-1 (si vous ne l’avez pas utilisez dans la partie 5) ou mise en pratique 2:
 Créer le diagramme de classe et le MPD
