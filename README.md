@@ -26,6 +26,20 @@ Réaliser les requêtes CRUD
 
 Partager diagramme de classe, MPD et code python sur git
 
+# Critères de performance
+
+Le diagramme de classe et le MPD doivent respecter les normes d'usages et correspondre aux tables créées Le code python doit fonctionner
+
+# Livrables
+
+Un dépot Github comportant :
+- un diagramme de classe
+- un Modèle physique de données
+- un code python utilisant mysql-connector et intégrant la création de la database, des tables et les requêtes CRUD (insertion, modification, destruction)
+
+(Vos travaux concerneront au choix la mise en pratique de l'agence de location ou de la base militaire) 
+
 # Ressources 
 
 https://www.w3schools.com/python/python_mysql_getstarted.asp
+
