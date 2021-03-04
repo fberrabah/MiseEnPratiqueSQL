@@ -150,4 +150,3 @@ mycursor = mydb.cursor()
 
 # print(mycursor.rowcount, "record(s) deleted")
 
-
